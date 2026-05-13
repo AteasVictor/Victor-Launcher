@@ -25,7 +25,7 @@ It is designed to make DLL-based mod packs easier to manage without constantly d
 
 ## How It Works
 
-Just press Pick DLL, and choose the plugin to install. The selected plugin will be queued.
+Just press "Upload Mod", and choose the plugin to install. The selected plugin will be queued.
 Once installed, changes will take effect on the next restart. 
 After a change affecting the mod is made, it will prompt you to close the game.
 
@@ -55,6 +55,12 @@ If a host shares a valid room code, players can:
 3. download the pack into the queue
 4. install the queued DLLs
 5. restart the game when prompted
+
+## Skins
+- Victor launcher now supports skins in the .vsk format in versions 0.2.3 and newer.
+- You can find a sample in the release of 0.2.3
+- Just put the VSK file in the plugins folder alongside Victor Launcher and it will automatically use the skin.
+- The skins allow you to customize the Header, button colors, and primary and secondary colors.
 
 ## Notes
 
