@@ -68,3 +68,6 @@ If a host shares a valid room code, players can:
 - Error messages and mod status messages are found near the bottom of the menu next to Ship Status
 - compatibility between large gameplay-overhaul mods still depends on the mods themselves
 - this project is intended for mod management convenience, not for bypassing game restrictions or trust checks
+- legacy versions of this mod (0.2.0 and older) keep support but do not have newer features available
+- when installing the companion app or downloading the dll, you may see a windows popup saying "Windows protected your PC" or "Suspicious file blocked".
+This is because it is an unrecognized app, though it is safe (feel free to run the file through virustotal or another antivirus)
